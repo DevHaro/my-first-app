@@ -1,0 +1,21 @@
+*{
+  background-color: gray;
+}
+
+.container {
+  width: 70%;
+}
+
+form {  
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: auto;
+  border: 1px solid #fff;
+  padding: 20px;
+}
+
+.entries{
+  width: 30%;
+  background: #fff;
+}
