@@ -117,7 +117,7 @@ export default Blog;
 3. Crear un componente que renderize esos POST's a modo de Cards (como un blog)
 4. Añadir un formulario a ese componente para poder añadir POST
 Happy Hacking!
-*/
+ */
 
 
 
